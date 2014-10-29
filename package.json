@@ -1,0 +1,26 @@
+{
+  "name": "canvastoE131",
+  "version": "0.0.0",
+  "description": "Send an image or animation from a canvas to a pixel array over streaming ACN E1.31",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "dependencies":{
+    "node-e131" : "*"
+  },
+  "devDependencies":{
+    "canvas" : "*"
+  },
+  "keywords": [
+    "sAcn",
+    "E1.31",
+    "canvas",
+    "dmx", 
+    "e131",
+    "acn", 
+    "LED"
+  ],
+  "author": "Ben Sudbury [sudsy]",
+  "license": "ISC"
+}
