@@ -15,7 +15,7 @@ A number of examples are included in the examples directory including a simple a
 // sendSimple.js
 
 var Canvas = require("canvas");
-var CanvastoE131 = require("../");
+var CanvastoE131 = require("canvastoe131");
 
 var canvas = new Canvas(10,10);
 
