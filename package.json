@@ -1,6 +1,6 @@
 {
   "name": "canvastoE131",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Send an image or animation from a canvas to a pixel array over streaming ACN E1.31",
   "main": "index.js",
   "scripts": {
