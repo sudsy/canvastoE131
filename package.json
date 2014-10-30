@@ -4,7 +4,11 @@
   "description": "Send an image or animation from a canvas to a pixel array over streaming ACN E1.31",
   "main": "index.js",
   "scripts": {
-    "test": "node test/index.js"
+    "test": "make test"
+  },
+  "homepage": "https://github.com/sudsy/canvastoE131",
+  "repository": {
+    "url": "git@github.com:sudsy/canvastoE131.git"
   },
   "dependencies":{
     "node-e131" : "*"
@@ -25,6 +29,6 @@
     "acn", 
     "LED"
   ],
-  "author": "Ben Sudbury [sudsy]",
+  "author": "Ben Sudbury [sudsy] (http://lighthouselogic.com)",
   "license": "ISC"
 }
