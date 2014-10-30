@@ -10,7 +10,11 @@
     "node-e131" : "*"
   },
   "devDependencies":{
-    "canvas" : "*"
+    "canvas" : "*",
+    "mocha" : "*",
+    "should" : "*",
+    "sinon" : "*",
+    "debug" : "*"
   },
   "keywords": [
     "sAcn",

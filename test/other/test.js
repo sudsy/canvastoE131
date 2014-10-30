@@ -45,7 +45,6 @@ output.close();
 
 
 
-
 //send the image to the server
 
 
