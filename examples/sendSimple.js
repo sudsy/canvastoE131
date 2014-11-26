@@ -12,7 +12,7 @@ context.fillRect(0,0,10,10);
 
 
 // connect the canvas to the sender with mapping
-var output = new CanvastoE131(canvas, {host: "10.1.1.5"});
+var output = new CanvastoE131(canvas, {host: "10.1.1.21"});
 
 
 output.send();
